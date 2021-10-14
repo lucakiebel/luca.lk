@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luca Kiebel</title>
+    <link rel="icon" href="https://luca-kiebel.de/favicons/apple-touch-icon.png">
+    <style>
+        :root {
+            --value-color: #A8FF60;
+            --key-color: #96CBFE;
+            --misc-color: #c5c8c6;
+            --background-color: #1d1f21;
+        }
+        body {
+            background-color: var(--background-color);
+            font-size: 1em;
+            text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+            font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
+            direction: ltr;
+            text-align: left;
+            white-space: pre;
+            word-spacing: normal;
+            word-break: normal;
+            line-height: 1.5;
+        
+            -moz-tab-size: 4;
+            -o-tab-size: 4;
+            tab-size: 4;
+        
+            -webkit-hyphens: none;
+            -moz-hyphens: none;
+            -ms-hyphens: none;
+            hyphens: none;
+            color: var(--misc-color);
+        }
+        .val {
+            color: var(--value-color);
+        }
+        .key {
+            color: var(--key-color);
+        }
+        .val>a {
+            color: var(--value-color);
+        }
+        pre {
+            margin-top: -25px;
+        }
+        @media only screen and (min-width : 992px) {
+            pre {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translateX(-50%) translateY(-50%);
+            }
+        } 
+    </style>
+</head>
+<body>
+<pre>
+{
+  <span class="key">"name"</span>: <span class="val">"Luca Kiebel"</span>,
+  <span class="key">"jobs"</span>: [
+    {
+      <span class="key">"company"</span>: <span class="val">"Nibyou"</span>,
+      <span class="key">"homepage"</span>: <span class="val">"<a href="https://nibyou.com">https://nibyou.com</a>"</span>,
+      <span class="key">"position"</span>: <span class="val">"CTO"</span>,
+      <span class="key">"contact"</span>: <span class="val">"<a href="mailto:lucakiebel@nibyou.com">mailto:lucakiebel@nibyou.com</a>"</span>
+    },
+    {
+      <span class="key">"company"</span>: <span class="val">"XenonCloud"</span>,
+      <span class="key">"homepage"</span>: <span class="val">"<a href="https://xenoncloud.net">https://xenoncloud.net</a>"</span>,
+      <span class="key">"position"</span>: <span class="val">"IT-Consultant"</span>
+      <span class="key">"contact"</span>: <span class="val">"<a href="mailto:lucakiebel@xenoncloud.net">mailto:lucakiebel@xenoncloud.net</a>"</span>
+    }
+  ],
+  <span class="key">"social"</span>: [
+    <span class="val">"<a href="https://github.com/lucakiebel">https://github.com/lucakiebel</a>"</span>,
+    <span class="val">"<a href="https://linkedin.com/in/lucakiebel">https://linkedin.com/in/lucakiebel</a>"</span>,
+    <span class="val">"<a href="https://twitter.com/lucakiebel">https://twitter.com/lucakiebel</a>"</span>,
+    <span class="val">"<a href="https://stackoverflow.com/users/6634591">https://stackoverflow.com/users/6634591</a>"</span>
+  ],
+  <span class="key">"contact"</span>: {
+    <span class="key">"mail"</span>: <span class="val">"<a href="mailto:hello@luca-kiebel.de">mailto:hello@luca-kiebel.de</a>"</span>,
+    <span class="key">"phone"</span>: <span class="val">"<a href="tel:004925354639896">tel:004925354639896</a>"</span>,
+    <span class="key">"vcard"</span>: <span class="val"><a href="lucakiebel.vcf" download="lucakiebel.vcf">lucakiebel.vcf</a></span>
+  },
+  <span class="key">"legal"</span>: {
+    <span class="key">"copyright"</span>: <span class="val">"<a href="https://luca-kiebel.de">© 2021 Luca Kiebel</a>"</span>,
+    <span class="key">"lega-notice"</span>: <span class="val">"<a href="https://luca-kiebel.de/imprint">https://luca-kiebel.de/imprint</a>"</span>
+  }
+}
+</pre>
+</body></html>
