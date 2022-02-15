@@ -61,13 +61,13 @@
 <pre>
 {
   <span class="key">"name"</span>: <span class="val">"Luca Kiebel"</span>,
-  <span class="key">"projects"</span>: <span class="val">"<a href="https://luca-kiebel.de">https://luca-kiebel.de</a>"</span>,
+  <span class="key">"projects"</span>: <span class="val">"<a href="https://luca.lk/f">https://luca-kiebel.de</a>"</span>,
   <span class="key">"jobs"</span>: [
     {
       <span class="key">"company"</span>: <span class="val">"Nibyou"</span>,
-      <span class="key">"homepage"</span>: <span class="val">"<a href="https://nibyou.com">https://nibyou.com</a>"</span>,
+      <span class="key">"homepage"</span>: <span class="val">"<a href="https://nibyou.de">https://nibyou.de</a>"</span>,
       <span class="key">"position"</span>: <span class="val">"Co-Founder &amp; CTO"</span>,
-      <span class="key">"contact"</span>: <span class="val">"<a href="mailto:lucakiebel@nibyou.com">mailto:lucakiebel@nibyou.com</a>"</span>
+      <span class="key">"contact"</span>: <span class="val">"<a href="mailto:luca.kiebel@nibyou.de">mailto:luca.kiebel@nibyou.de</a>"</span>
     },
     {
       <span class="key">"company"</span>: <span class="val">"adesso SE"</span>,
@@ -77,10 +77,10 @@
     }
   ],
   <span class="key">"social"</span>: [
-    <span class="val">"<a href="https://link.luca-kiebel.de/Bunavc">https://github.com/lucakiebel</a>"</span>,
-    <span class="val">"<a href="https://link.luca-kiebel.de/soM9A5">https://linkedin.com/in/lucakiebel</a>"</span>,
-    <span class="val">"<a href="https://link.luca-kiebel.de/5UH0dk">https://twitter.com/lucakiebel</a>"</span>,
-    <span class="val">"<a href="https://link.luca-kiebel.de/qlUGMP">https://stackoverflow.com/users/6634591</a>"</span>
+    <span class="val">"<a href="https://luca.lk/gh">https://github.com/lucakiebel</a>"</span>,
+    <span class="val">"<a href="https://luca.lk/in">https://linkedin.com/in/lucakiebel</a>"</span>,
+    <span class="val">"<a href="https://luca.lk/tw">https://twitter.com/lucakiebel</a>"</span>,
+    <span class="val">"<a href="https://luca.lk/so">https://stackoverflow.com/users/6634591</a>"</span>
   ],
   <span class="key">"contact"</span>: {
     <span class="key">"mail"</span>: <span class="val">"<a href="mailto:hello@luca-kiebel.de">mailto:hello@luca-kiebel.de</a>"</span>,
@@ -88,9 +88,13 @@
     <span class="key">"vcard"</span>: <span class="val">"<a href="lucakiebel.vcf" download="lucakiebel.vcf">lucakiebel.vcf</a>"</span>
   },
   <span class="key">"legal"</span>: {
-    <span class="key">"copyright"</span>: <span class="val">"<a href="https://luca-kiebel.de">© 2021 Luca Kiebel</a>"</span>,
-    <span class="key">"legal"</span>: <span class="val">"<a href="https://luca-kiebel.de/legal">https://luca-kiebel.de/legal</a>"</span>
+    <span class="key">"copyright"</span>: <span class="val">"<a href="https://luca.lk/f">© 2021-<span id="date"></span> Luca Kiebel</a>"</span>,
+    <span class="key">"legal"</span>: <span class="val">"<a href="https://luca.lk/l">https://luca-kiebel.de/legal</a>"</span>
   }
 }
 </pre>
+<script>
+  let year = new Date().getFullYear();
+  document.getElementById("date").innerHTML = year;
+</script>
 </body></html>
