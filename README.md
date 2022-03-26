@@ -8,3 +8,5 @@ The files are:
  - `id` is my public SSH Key, mostly for setting up server access easier ( `curl -L luca.lk/id >> ~/.ssh/authorized_keys` )
 
  - `lucakiebel.vcf` is a vCard of my contact information, this can be used for smaller QR codes with my information as a contact in it ( accessible via `/vcard` )
+
+ - `adesso.vcf` same as `lucakiebel.vcf` but for my other job at @adessose
