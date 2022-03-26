@@ -9,4 +9,4 @@ The files are:
 
  - `lucakiebel.vcf` is a vCard of my contact information, this can be used for smaller QR codes with my information as a contact in it ( accessible via `/vcard` )
 
- - `adesso.vcf` same as `lucakiebel.vcf` but for my other job at [@adessoSE](https://github.com/adessoSE)
+ - `work.vcf` same as `lucakiebel.vcf` but for my other job at [@adessoSE](https://github.com/adessoSE)
