@@ -1,16 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
 N;CHARSET=UTF-8:Kiebel;Luca;;;
-ORG;CHARSET=UTF-8:adesso SE;Line of Business Banking
-TITLE;CHARSET=UTF-8:Software Developer
-URL;WORK:https://adesso.de
+ORG;CHARSET=UTF-8:Audoora GmbH
+TITLE;CHARSET=UTF-8:Head of App Development
+URL;WORK:https://audoora.de
 URL;PRIVATE:https://luca.lk
-EMAIL;type=WORK;type=PREF:luca.kiebel@adesso.de
-TEL;type=WORK;VOICE:00491744900813
+EMAIL;type=WORK;type=PREF:luca@audoora.de
+TEL;type=WORK;VOICE:004925192873030
 TEL;type=CELL;HOME:004917632340246
-ADR;CHARSET=UTF-8;WORK;type=pref:;;Adessoplatz 1;Dortmund;;44269;Deutschland
-LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE;CHARSET=UTF-8:Adessoplatz 1=0D=0A=
-44269 Dortmund Deutschland
+ADR;CHARSET=UTF-8;WORK;type=pref:;;Im Mediapark 5;Köln;;50670;Deutschland
+LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE;CHARSET=UTF-8:Im Mediapark 5=0D=0A=
+50670 Köln Deutschland
 ADR;CHARSET=UTF-8;HOME;type=pref:;;Gremmendorfer Weg 55;Münster;;48167;Deutschland
 LABEL;HOME;PREF;ENCODING=QUOTED-PRINTABLE;CHARSET=UTF-8:Gremmendorfer Weg 55=0D=0A=
 48167 Münster Deutschland
