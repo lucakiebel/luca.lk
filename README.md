@@ -11,4 +11,4 @@ The files are:
 
  - `lucakiebel.vcf` is a vCard of my contact information, this can be used for smaller QR codes with my information as a contact in it ( accessible via `/vcard` or `/v` )
 
- - `work.vcf` same as `lucakiebel.vcf` but for my other job at [@adessoSE](https://github.com/adessoSE) ( accessible via `/w` )
+ - `work.vcf` same as `lucakiebel.vcf` but for my other job at Audoora GmbH ( accessible via `/w` )
