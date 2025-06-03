@@ -1,0 +1,50 @@
+Datenschutzerklärung für die Chrome-Erweiterung "Auto-Invite for Strava Activities"
+
+Diese Chrome-Erweiterung verarbeitet keine personenbezogenen Daten auf Servern des Entwicklers. Alle gespeicherten Daten (z. B. die Liste der eingeladenen Athleten) verbleiben ausschließlich lokal im Browser des Nutzers und werden über die chrome.storage-API verwaltet.
+
+Erhobene Daten:
+
+- Die Erweiterung speichert optional eine benutzerdefinierte Liste von Strava-Athleten lokal im Browser.
+
+Es werden keine Daten an Dritte oder an den Entwickler übermittelt.
+
+Verwendung von Berechtigungen:
+
+- storage: Zum lokalen Speichern der Athletenliste im Browser.
+
+- scripting: Zum Einfügen eines Invite-Buttons und zur Automatisierung der Einladungsfunktion auf Strava-Seiten.
+
+Kontakt:
+Bei Fragen zum Datenschutz schreiben Sie bitte an: datenschutz@luca-kiebel.de
+
+
+Ihre Rechte als betroffene Person
+Recht auf Bestätigung
+
+Sie haben gemäß den Vorgaben des Europäischen Richtlinien- und Verordnungsgebers das Recht, von uns als für die Verarbeitung Verantwortliche eine Bestätigung darüber zu verlangen, ob wir personenbezogene Daten verarbeiten, die Sie betreffen. Wenn Sie dieses Bestätigungsrecht in Anspruch nehmen möchten, können Sie sich hierzu jederzeit an einen unserer Mitarbeiter wenden.
+
+Recht auf Auskunft
+
+Sie haben gemäß den Vorgaben des Europäischen Richtlinien- und Verordnungsgebers das Recht, jederzeit von uns als für die Verarbeitung Verantwortliche unentgeltliche Auskunft über die zu Ihrer Person gespeicherten personenbezogenen Daten und eine Kopie dieser Auskunft zu erhalten. Ferner hat der Europäische Richtlinien- und Verordnungsgeber Ihnen Auskunft über folgende Informationen zugestanden:
+
+die Verarbeitungszwecke
+
+die Kategorien personenbezogener Daten, die verarbeitet werden
+
+die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern in Drittländern oder bei internationalen Organisationen
+
+falls möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer
+
+das Bestehen eines Rechts auf Berichtigung oder Löschung der sie betreffenden personenbezogenen Daten oder auf Einschränkung der Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung
+
+das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde
+
+wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden: Alle verfügbaren Informationen über die Herkunft der Daten
+
+das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Artikel 22 Abs.1 und 4 DSGVO und — zumindest in diesen Fällen — aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für die betroffene Person
+
+Des Weiteren haben Sie das Recht zu erfahren, ob wir personenbezogene Daten an ein Drittland oder an eine internationale Organisation übermittelt haben. Falls dies der Fall ist, steht Ihnen das Recht zu, Auskunft über die geeigneten Garantien im Zusammenhang mit der Übermittlung zu erhalten.
+
+Möchten sie dieses Auskunftsrecht in Anspruch nehmen, könenn sie sich hierzu jederzeit an einen unserer Mitarbeiter wenden.
+
+Stand: [03.06.2025]
